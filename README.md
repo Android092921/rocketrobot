@@ -1,4 +1,4 @@
-DBTeam-bot
+Rocket Bot
 ============
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
@@ -299,4 +299,5 @@ Other interesting sites
 
 Contact us
 ------------
-You can contact us in groups said before but if you have an issue please [open](https://github.com/Josepdal/DBTeam/issues) one.
+Developer = @Farzad Nari
+Rocket Team Channel = @Rocket_TM
