@@ -282,10 +282,10 @@ DBTeam support and development groups
 
 [![https://telegram.me/joinchat/C142CD3GT-26EFdxu_lW0g](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Support_EN-blue.svg)](https://telegram.me/joinchat/C142CD3GT-26EFdxu_lW0g) [![https://telegram.me/joinchat/C142CD5wPizyWWg4R3TJLw](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Soporte_ES-blue.svg)](https://telegram.me/joinchat/C142CD5wPizyWWg4R3TJLw) [![https://telegram.me/joinchat/BbkmWz2Ozu7EakNpixOJ5A](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Support_FA-blue.svg)](https://telegram.me/joinchat/BbkmWz2Ozu7EakNpixOJ5A)
 
-DBTeam developers
+Rocket bot developer
 -----------------
 
-[![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Josepdal-blue.svg)](https://telegram.me/farzad_nari) [![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Juan-blue.svg)](https://telegram.me/farzad_nari)
+[![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-farzad_Nari-blue.svg)]
 
 Yagop developer and bot development group
 -----------------------------------------
