@@ -239,7 +239,7 @@ Once installed, kill all the telegram-cli and screen processes running on your v
 killall screen
 killall telegram-cli
 ```        
-Then you have to launch the script (you need to be in DBTeam folder):
+Then you have to launch the script (you need to be in Rocket Bot folder):
 ```bash
 screen bash steady.sh
 ```          
@@ -285,8 +285,8 @@ Rocket Bot support Channel
 Rocket bot developer
 -----------------
 
-[![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-farzad_Nari-blue.svg)]
+[![https://telegram.me/joinchat/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-farzad_Nari-blue.svg)]
 
 ------------
-Developer = @Farzad Nari
+Developer = Farzad Nari
 
