@@ -277,15 +277,6 @@ $ sudo start telegram # To start it
 $ sudo stop telegram # To stop it
 ```
 
-Rocket Bot support Channel
--------------------------------------
-
-[![https://telegram.me/Rocket_TM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Support_-blue.svg)]
-
-Rocket bot developer
------------------
-
-[![https://telegram.me/joinchat/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-farzad_Nari-blue.svg)]
 
 ------------
 Developer = Farzad Nari
