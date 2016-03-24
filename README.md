@@ -285,7 +285,7 @@ DBTeam support and development groups
 DBTeam developers
 -----------------
 
-[![https://telegram.me/Josepdal](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Josepdal-blue.svg)](https://telegram.me/Josepdal) [![https://telegram.me/MaSkAoS](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Juan-blue.svg)](https://telegram.me/MaSkAoS)
+[![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Josepdal-blue.svg)](https://telegram.me/farzad_nari) [![https://telegram.me/farzad_nari](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Juan-blue.svg)](https://telegram.me/farzad_nari)
 
 Yagop developer and bot development group
 -----------------------------------------
