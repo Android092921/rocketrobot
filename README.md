@@ -58,8 +58,8 @@ Bot Commands
             <td>Plugin to manage spam at groups and supergroups. When someone write a Telegram link to another group or channel, automatically (for example), plugin delete that user from the channel, and delete his message. Then, send a report to all sudo users in a private message with user info, text message and the name and id of that channel.</td>
         </tr>
         <tr>
-            <td>version.lua</td>
-            <td>Shows bot version</td>
+           
+            
         </tr>
     </tbody>
 </table>
@@ -184,8 +184,7 @@ Bot Commands
             </td>
         </tr>
         <tr>
-            <td>version.lua</td>
-            <td>#version: shows bot version.</td>
+           
         </tr>
     </tbody>
 </table>
