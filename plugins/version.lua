@@ -1,20 +1,20 @@
 --------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
+--                                              --
+--                                              --
+--                                              --
+--                                              --
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--       Developer: @Farzad_Nari                --
+--     Support: @ehsan_Zac & @Mohammad_070      --
 --                                              --
 --------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'Rocket Bot V1 Supergroups\/\n\nDevelopers: @Farzad_Nari\nSupport: @ehsan_zac & @Mohammad_070\nChannel: @Rocket_TM \n\nCheckout: https://github.com/FarzadNari/rocketrobot\nGNU GPL v2 license.'
 end
 
 return {
