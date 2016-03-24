@@ -240,7 +240,6 @@ function create_config( )
       "settings",
       "spam",
       "spanish_lang",
-      "version",
       "italian_lang",
       "portuguese_lang",
       "arabic"
