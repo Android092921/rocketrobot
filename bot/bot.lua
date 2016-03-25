@@ -230,6 +230,7 @@ function create_config( )
     enabled_plugins = {
       "bot",
       "commands",
+      "echo",
       "english_lang",
       "export_gban",
       "giverank",
