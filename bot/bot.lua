@@ -235,7 +235,7 @@ function create_config( )
       "english_lang",
       "export_gban",
       "giverank",
-      "info_fa",  
+      "info",  
       "id",
       "moderation",
       "plugins",
