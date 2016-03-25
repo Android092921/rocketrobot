@@ -229,6 +229,7 @@ function create_config( )
   config = {
     enabled_plugins = {
       "bot",
+      "calculator",
       "commands",
       "echo",
       "english_lang",
