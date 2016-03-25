@@ -234,6 +234,7 @@ function create_config( )
       "echo",
       "english_lang",
       "export_gban",
+      "weather",
       "giverank",
       "info",  
       "id",
