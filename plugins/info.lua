@@ -1,16 +1,21 @@
 do
-
 function run(msg, matches)
-  return "شناسه گروه 📡 "..msg.from.id.."\nنام گروه 📡 "..msg.to.title.."\nنام شما 📡 "..(msg.from.first_name or '').."\nنام اول 📡 "..(msg.from.first_name or '').."\nنام آخر 📡 "..(msg.from.last_name or '').."\nآیدی 📡 "..msg.from.id.."\n#یوزرنیم 📡 @"..(msg.from.username or '').."\nشماره تلفن 📡+"..(msg.from.phone or '')
+local reply_id = msg['id']
+
+local info = '#Name : '..msg.from.first_name..'\n\n'
+..'♦Id : '..msg.from.id..'\n'
+..'♦Username : @'..msg.from.username..'\n\n'
+..'♦Group Id : '..msg.to.id..'\n'
+..'♦Group name : '..msg.to.title
+
+reply_msg(reply_id, info, ok_cb, false)
 end
+
 return {
-  description = "", 
-  usage = "",
-  patterns = {
-    "^[!/#]INFO$",
-  },
-  run = run
+patterns = {
+"^[!/#]info"
+},
+run = run
 }
+
 end
-
-
