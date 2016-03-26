@@ -240,6 +240,7 @@ function create_config( )
       "moderation",
       "plugins",
       "persian_lang",
+      "voice",
       "settings",
       "tophoto",
       "spam",
