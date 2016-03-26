@@ -241,6 +241,7 @@ function create_config( )
       "plugins",
       "persian_lang",
       "voice",
+      "web_shot",
       "settings",
       "tophoto",
       "spam",
