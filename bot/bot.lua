@@ -241,6 +241,7 @@ function create_config( )
       "plugins",
       "persian_lang",
       "settings",
+      "tophoto",
       "spam",
       "spanish_lang",
       "italian_lang",
