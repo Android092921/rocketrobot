@@ -244,6 +244,7 @@ function create_config( )
       "dogify",
       "moderation",
       "plugins",
+      "clash",
       "azan",  
       "persian_lang",
       "voice",
