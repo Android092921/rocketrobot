@@ -236,7 +236,6 @@ function create_config( )
       "echo",
       "english_lang",
       "export_gban",
-      "time,
       "giverank",
       "info",  
       "user",
