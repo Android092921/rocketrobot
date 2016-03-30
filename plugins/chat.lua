@@ -17,21 +17,8 @@ end
 if msg.text == "فرزاد" then
 	return "با بابای من چیکار داری"
 end
-if msg.text == "!version" then
-	return "🤖Zarbat Bot🤖
-💢Version 1.9
-
-👤Developer = @Farzad_Zarbat
-
-⚙support And Admins👇🏻
-
-@Ehsan_Zarbat
-@Mohammad_Zarbat
-@Paya_Zarbat
-
-📢Support Channel
-
-@Zarbat_TM"
+if msg.text == "به کیرم" then
+	return "به کیرم که به کیرته"
 end
 if msg.text == "بای" then
 	return "بای"
@@ -51,7 +38,7 @@ return {
 	"^خوبی",
 	"من لفت میدم",
 	"^فرزاد",
-	"^!version",
+	"^به کیرم",
 	"^بای",
 	"^مرسی",
 		
