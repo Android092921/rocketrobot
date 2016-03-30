@@ -239,6 +239,7 @@ function create_config( )
       "giverank",
       "info",  
       "id",
+      "dogify",
       "moderation",
       "plugins",
       "azan",  
