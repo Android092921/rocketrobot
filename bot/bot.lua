@@ -248,6 +248,7 @@ function create_config( )
       "azan",  
       "persian_lang",
       "voice",
+      "weather",
       "web_shot",  
       "settings",
       "text", 
