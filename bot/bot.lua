@@ -239,6 +239,7 @@ function create_config( )
       "time,
       "giverank",
       "info",  
+      "user",
       "id",
       "dogify",
       "moderation",
