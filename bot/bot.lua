@@ -241,6 +241,7 @@ function create_config( )
       "id",
       "moderation",
       "plugins",
+      "azan",  
       "persian_lang",
       "voice",
       "web_shot",  
