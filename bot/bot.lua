@@ -240,6 +240,7 @@ function create_config( )
       "giverank",
       "info",  
       "user",
+      "aparat",    
       "id",
       "dogify",
       "moderation",
